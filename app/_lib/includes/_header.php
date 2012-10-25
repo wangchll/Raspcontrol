@@ -6,6 +6,7 @@ session_start();
 
 <html>
 <head>
+    <meta charset="utf-8" />
     <title>Raspcontrol - The Raspberry Pi Control Centre</title>
     <link rel="stylesheet" href="_lib/styles/style.css" type="text/css" media="screen" charset="utf-8">
     <link rel="stylesheet" href="_lib/styles/menu.css" type="text/css" media="screen" charset="utf-8">
